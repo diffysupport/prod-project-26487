@@ -2,7 +2,7 @@ basic:
     name: /harbor-department/
     environments:
         production: 'https://ventura.org/harbor-department'
-        staging: 'https://s48024.p1092.sites.pressdns.com/'
+        staging: 'https://s48024.p1092.sites.pressdns.com/harbor-department'
         development: ''
     basicAuth:
         production: { user: '', password: '' }
